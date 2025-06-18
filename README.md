@@ -495,3 +495,14 @@ This repository contains prompt chains for the following domains:
   ```text
   "Set up a CI/CD pipeline to automatically run Keploy tests as part of the deployment process. Include configuration for GitHub Actions or Jenkins to run tests whenever new code is pushed to the repository."
   ```
+  * **Auto-Mock API Responses Using Keploy for Frontend Development**
+
+```text
+"Given an API contract or Swagger/OpenAPI schema, use Keploy to auto-generate mocks of the backend API so that frontend developers can develop independently without waiting for the backend to be complete."
+```
+
+* **Generate JUnit Test Cases from Keploy API Test Captures**
+
+```text
+"Convert captured API traffic by Keploy into equivalent JUnit test cases for integration testing in a Java-based backend project."
+```
